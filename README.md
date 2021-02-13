@@ -4,7 +4,7 @@ Used to store static resources and access resource links through jsdelivr CDN.
 
 ## Link Prefix
 
-Normal:
+### Normal:
 
 ```
 https://cdn.jsdelivr.net/gh/chengpeiquan/assets-storage/
@@ -12,7 +12,7 @@ https://cdn.jsdelivr.net/gh/chengpeiquan/assets-storage/
 
 e.g. [https://cdn.jsdelivr.net/gh/chengpeiquan/assets-storage/img/avatar.jpg](https://cdn.jsdelivr.net/gh/chengpeiquan/assets-storage/img/avatar.jpg)
 
-No cache:
+### No cache:
 
 ```
 https://cdn.jsdelivr.net/gh/chengpeiquan/assets-storage@latest/
@@ -20,7 +20,7 @@ https://cdn.jsdelivr.net/gh/chengpeiquan/assets-storage@latest/
 
 e.g. [https://cdn.jsdelivr.net/gh/chengpeiquan/assets-storage@latest/img/avatar.jpg](https://cdn.jsdelivr.net/gh/chengpeiquan/assets-storage@latest/img/avatar.jpg)
 
-Clear cache:
+### Clear cache:
 
 ```
 https://purge.jsdelivr.net/gh/chengpeiquan/assets-storage/
