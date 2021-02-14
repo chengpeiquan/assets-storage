@@ -26,4 +26,4 @@ e.g. [https://cdn.jsdelivr.net/gh/chengpeiquan/assets-storage@latest/img/avatar.
 https://purge.jsdelivr.net/gh/chengpeiquan/assets-storage/
 ```
 
-e.g. [https://purge.jsdelivr.net/gh/chengpeiquan/assets-storage/img/avatar.jpg](https://cdn.jsdelivr.net/gh/chengpeiquan/assets-storage/img/avatar.jpg)
+e.g. [https://purge.jsdelivr.net/gh/chengpeiquan/assets-storage/img/avatar.jpg](https://purge.jsdelivr.net/gh/chengpeiquan/assets-storage/img/avatar.jpg)
